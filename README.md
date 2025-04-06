@@ -29,7 +29,6 @@ The dataset includes fields such as:
 - Python (`pandas`, `plotly.express`)
 - Google Colab for development
 - GitHub Pages for hosting
-- Clean visual styling inspired by D. E. Shaw’s charting aesthetic
 
 ---
 
