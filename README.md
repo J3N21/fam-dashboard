@@ -8,8 +8,6 @@ The visualizations are designed to showcase a technical approach to tracking and
 - 🌐 Issue Types by Severity  
 - 📅 Compliance Issues Over Time
 
-All dashboards follow a clean, institutional aesthetic aligned with real-world reporting practices in asset management.
-
 ---
 
 ### 🔍 Data
